@@ -11,4 +11,4 @@ nihao qiqu
 nihao qiqu
 nihao qiqu88888
 nihao qiqu77777
-test update
+test updatebyssh
